@@ -3,7 +3,7 @@ Name : JakeJM
 HEELLLLP MME-
 # Experience
 |Languages|
-|-|
+|---|
 |C|
 |Python|
 |C++|
