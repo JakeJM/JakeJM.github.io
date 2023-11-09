@@ -12,4 +12,4 @@ HEELLLLP MME-
 # Projects
 
 # Socials
-[Mail](jakejmathew@gmail.com)
+[College](https://www.pesuacademy.com/Academy/)
