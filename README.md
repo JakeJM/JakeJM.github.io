@@ -1,6 +1,6 @@
 # About Me
 Name : JakeJM
-HEELLLLP MME-
+
 # Experience
 |Languages|
 |---|
